@@ -1,5 +1,6 @@
 <script setup>
     import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
+
     const list = [
         {
             title: "Today"
@@ -47,6 +48,8 @@
                 <p>Hi, welcome back tigrão!</p>
                 <h1>Dashboard</h1>
             </div>
+
+            <ProductNew />
         </header>
 
         <main class="grid w-full gap-4">
