@@ -42,7 +42,7 @@
 </script>
 
 <template>
-    <div class="grid gap-4">
+    <div class="grid w-full gap-4">
         <header class="flex items-start justify-between">
             <div class="grow">
                 <p>Hi, welcome back tigrão!</p>

@@ -42,7 +42,7 @@
         <div :class="desktop">
             <SidebarMenu />
             <div>
-                UserItem
+                <UserItem />
             </div>
         </div>
     </div>
